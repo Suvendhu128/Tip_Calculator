@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+body{
+    background: url(./boxed-water-is-better-yaAGwbkbc-s-unsplash.jpg) no-repeat center fixed;
+    background-size: cover;
+}
+#container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5%;
+}
+#form_container{
+    background-color:#6599ff ;
+    width: auto;
+    height: auto;
+    padding: 2%;
+}
+button{
+    border: 2px solid #FF9900;
+    height: 2rem;
+    width: 4rem;
+    border-radius: 6px;
+    background-color:hsl(52, 100%, 50%) ;
+    font-family: MV Boli ;
+    align-items: center;
+    padding-bottom: 0.5 rem;
+    margin-left: 45%;
+    
+}
+input{
+    background-color:rgb(249, 254, 183) ;
+    border:2px solid #FFDE00;
+    border-radius: 6px;
+    text-align: center;
+    padding: 3px;
+    
+}
+option{
+    background-color:rgb(249, 254, 183) ;
+    border:2px solid #FFDE00;
+    border-radius: 6px;
+    color: black;
+}
+select{
+    background-color:rgb(249, 254, 183) ;
+    border:2px solid #FFDE00;
+    border-radius: 6px;
+    padding: 3px;
+    text-align: center;
+}
+h1{
+    font-family:Segoe Print ;
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
